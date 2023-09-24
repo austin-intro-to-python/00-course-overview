@@ -1,5 +1,32 @@
 # Course Overview
 
+## Youtube Recordings
+|  Lesson |  Topic    | Recording | 
+| --- | --- | --- |
+| 1   | Introduction to Python  | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 2   | Data Structures       | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 3   | Conditionals   | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 4   | Loops  | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 4   | More Loops     | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 5   | Functions Intro      | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 6   | Functions Practice    | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 7 |   Functions Intermediate   | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 8   | Functions Advanced     | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 9 |   Modules and Scripting   | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 10 |  Object Oriented Programming    | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 11 |      Debugging and Errors   | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 12 |  Exploratory Data Analysis    | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 13 |  Data Visualization     | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 14 |  Cleaning and Combining Data     | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 15 |  APIs    | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 16  | Webscraping    | [youtube link](https://youtu.be/mkcP2EisXcg) |
+| 17 |  Feature Engineering  | [youtube link](https://youtu.be/mkcP2EisXcg) |
+
+
+
+
+
+
 #### Materials on Google Drive
 [Click here](https://drive.google.com/drive/folders/15Ehp3HHZmpyPLrcpWQFnh0RP2lgsQNiF?usp=sharing)
 
